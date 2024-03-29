@@ -2,7 +2,7 @@
 
 /**
  * add_to_que - add node to queues
- * @stack: double pointer to the stack
+ * @new_node: double pointer to the stack
  * @l_number: number line
  * Return: void
  */
