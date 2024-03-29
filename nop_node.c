@@ -2,7 +2,7 @@
 
 /**
  * nop_node - Does nothing.
- * @stack: Pointer to a pointer pointing to top node of the stack.
+ * @head_s: Pointer to a pointer pointing to top node of the stack.
  * @l_n: Interger representing the line number of of the opcode.
  */
 
